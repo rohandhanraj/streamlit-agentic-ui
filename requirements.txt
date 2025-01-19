@@ -1,0 +1,6 @@
+streamlit
+httpx
+audio_recorder_streamlit
+streamlit-float
+gTTS
+speechrecognition
